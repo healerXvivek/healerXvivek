@@ -1,10 +1,3 @@
-Languages and Tools
-
-Python git terminal java CSS R
-
-C MATLAB SQL HTML Tableau Visual Code Studio
-
-
 
 - 👋 Hi, I’m @healerXvivek
 - 👀 I’m interested in ...
